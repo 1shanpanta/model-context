@@ -10,6 +10,7 @@ cachetools==5.5.1
 certifi==2024.12.14
 charset-normalizer==3.4.1
 dataclasses-json==0.6.7
+DateTime==5.5
 exceptiongroup==1.2.2
 filetype==1.2.0
 frozenlist==1.5.0
@@ -59,6 +60,7 @@ PyMuPDF==1.25.2
 pyparsing==3.2.1
 pypdf==5.1.0
 python-dotenv==1.0.1
+pytz==2024.2
 PyYAML==6.0.2
 requests==2.32.3
 requests-toolbelt==1.0.0
@@ -73,4 +75,5 @@ typing_extensions==4.12.2
 uritemplate==4.1.1
 urllib3==2.3.0
 yarl==1.18.3
+zope.interface==7.2
 zstandard==0.23.0
